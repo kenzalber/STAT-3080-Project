@@ -19,9 +19,23 @@ knitr::opts_chunk$set(echo = TRUE, highlight=FALSE)
 ## Remove the ## before all code.
 ```
 
-## Section headers 
-### Subsection headers, if using
-Your text.
+## Introduction 
+### Context
+
+
+### Research Questions
+
+
+### Relevance
+
+## Data Summary
+### Data Collection
+
+### Data Modifications
+
+### Variable Descriptions
+
+
 
 Linebreaks are created using two spaces at the end of the previous line of text, or using the command \newline.  
 Pagebreaks are created using the command \newpage.  
